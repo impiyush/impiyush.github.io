@@ -1,6 +1,6 @@
 // set the date we're counting down to
 
-var target_date = new Date('Oct, 01, 2017').getTime();
+var target_date = new Date('June, 01, 2018').getTime();
 
  
 
